@@ -39,10 +39,10 @@ A full-stack recipe website that allows users to search meals, view recipe detai
    ```bash
    git clone https://github.com/EddlaEdwin/Recipe-Search-Website.git
    cd Recipe-Search-Website
-Install dependencies
+**Install dependencies**
     npm install
     
-Start the server in cmd
+**Start the server in cmd**
     node server.js
     
 Open home.html in your browser to use the website.
